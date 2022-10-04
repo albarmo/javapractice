@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
     Scanner input =  new Scanner(System.in);
-    String accessName = "Andayani Ramadanti";
+    String accessName = "alyaaa";
 
     System.out.print("masukan nama anda : ");
     String userName =  input.nextLine();

@@ -5,10 +5,11 @@ import java.util.Scanner;
 public class Main {
 
     public static  void main (String[] args){
+        System.out.print("masukan pilihan program anda : ");
+
         Scanner input =  new Scanner(System.in);
         String inputUser =  input.next();
 
-        System.out.print("masukan pilihan program anda : ");
 
         // switch case in java
         switch (inputUser){
@@ -19,7 +20,7 @@ public class Main {
                 System.out.println("umur anda 23 tahuun");
                 break;
             case "pekerjaan" :
-                System.out.println("anda adalah seorang fullstack developer");
+                System.out.println("saya kerja di feedloop");
                 break;
             default:
                 System.out.println("Input invalid");

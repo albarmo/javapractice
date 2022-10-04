@@ -49,7 +49,7 @@ public class Main {
         int[] arrayAngka7 = new int[6];
 
         arrayAngka6 = Arrays.copyOf(arrayAngka1,arrayAngka1.length);
-        arrayAngka7 = new int[]{1, 2, 5, 4, 5, 6};
+        arrayAngka7 = new int[]{1, 2, 3, 4, 5, 6};
 
         System.out.println("array angka 6 : " + Arrays.toString(arrayAngka6));
         System.out.println("array angka 7 : " + Arrays.toString(arrayAngka7));

@@ -13,7 +13,7 @@ public class Main {
         substractResult = value1 - value2;
         System.out.println(value1 + "-" + value2 + " : " + substractResult);
 
-        hasilKali = value1 *  value2;
+        hasilKali = value1 * value2;
         System.out.println(value1 + "*" + value2 + " : " + hasilKali);
 
         hasilBagi = value1 / value2;

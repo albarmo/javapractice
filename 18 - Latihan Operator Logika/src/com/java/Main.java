@@ -7,7 +7,6 @@ public class Main {
         int keyValue = 8;
         System.out.print("shoot : ");
         int shoot = input.nextInt();
-        boolean resultHandler =  keyValue == shoot;
         boolean statusTebakan;
 
         // aljabar boolean
